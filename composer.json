@@ -1,5 +1,5 @@
 {
-  "name": "azure-oss/storage",
+  "name": "cwssrl/azure-storage-php",
   "description": "This project provides a set of PHP client libraries that make it easy to access Microsoft Azure storage APIs.",
   "keywords": [
     "php",
